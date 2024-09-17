@@ -1,2 +1,2 @@
-# Luinux_perfm
+# Linux_perfm
 Linux makinelerin performansını gösteren betik.
